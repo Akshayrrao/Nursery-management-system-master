@@ -4,10 +4,34 @@ Nursery management system to buy plants..
 
 ## This is a Static Website used to Buy a Nurcery Plant:
 
-![Alt text](img/home.png?raw=true)
-![Alt text](img/register.png?raw=true)
-![Alt text](img/login.png?raw=true)
-![Alt text](img/dashboard.png?raw=true)
+  ![](screenshot/1.png) 
+  
+  
+  ![](screenshot/2.png)
+  
+  
+  ![](screenshot/3.png)
+  
+  
+  ![](screenshot/4.png)
+  
+  
+  ![](screenshot/5.png)
+  
+  
+  ![](screenshot/6.png)
+  
+  
+  ![](screenshot/7.png)
+  
+  
+  ![](screenshot/8.png)
+  
+  
+  ![](screenshot/9.png)
+  
+  
+  ![](screenshot/10.png)
 
 
 #### REFERENCES
