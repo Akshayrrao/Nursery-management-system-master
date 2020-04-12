@@ -35,7 +35,6 @@ Nursery management system to buy plants.
 
 
 #### REFERENCES
-  > [Connect Firebase using Android Studio](https://firebase.google.com/docs/android/setup)
   
   > [w3schools](https://www.w3schools.com/)
   
