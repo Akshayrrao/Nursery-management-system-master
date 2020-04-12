@@ -1,5 +1,5 @@
 # Nursery-management-system-master
-Nursery management system to buy plants..
+Nursery management system to buy plants.
 
 
 ## This is a Static Website used to Buy a Nurcery Plant:
@@ -45,4 +45,4 @@ Nursery management system to buy plants..
   
   > [netlify-For Hosting](https://www.netlify.com/)
   
-  > [Preview of the project available here!!!](https://nursery-management-system-master.netlify.com/)
+  > [Preview of the project available here!!!](https://akshayrrao.github.io/Nursery-management-system-master/.
