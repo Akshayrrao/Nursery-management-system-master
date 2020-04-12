@@ -1,0 +1,62 @@
+﻿/*  Custom miSlider CSS ========================================= */
+
+.mis-stage {
+	background-color: #fff;
+}
+.mis-slider {
+/*  Slider element does not need to be a specific height
+            Here we use it to create a stylish bar behind slides */
+	margin-top: 138px;
+	height: 80px;
+	background-color: #a0d034;
+}
+.mis-slider li a {
+	text-decoration: none;
+	color: #666;
+	display: block;
+}
+.mis-slider li figcaption {
+	font-size: 1.5em;
+    font-family: 'Bree Serif', serif;
+    color: #212121;
+}
+.mis-slider li img {
+	max-width: 270px;
+	width: 100%;
+	margin: 0 auto;
+	border: none;
+}
+.mis-slide {
+/*  Set width in pixels to restrict width of slides 
+                for multi-item slider, default width is 100%
+                for single-item slider. Use padding to add space 
+                between slides */
+width: 360px;
+height: 360px;
+padding: 40px;
+/*  Undo the margin added by slider element */
+margin-top: -138px
+}
+.mis-nav-buttons a {
+color: #fff;
+}
+@media (max-width: 800px){
+	.mis-slider li img {
+		max-width: 190px;
+	}
+	.mis-slide {
+		margin-top: -115px;
+	}
+	.mis-slider {
+		margin-top: 115px;
+		height: 50px;
+	}
+	.mis-slide {
+		height: 160px;
+	}
+}
+@media (max-width: 480px){
+	.mis-slider li figcaption {
+		font-size: 1.2em;
+	}
+}
