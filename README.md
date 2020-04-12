@@ -45,4 +45,4 @@ Nursery management system to buy plants.
   
   > [netlify-For Hosting](https://www.netlify.com/)
   
-  > [Preview of the project available here!!!](https://akshayrrao.github.io/Nursery-management-system-master/.
+  > [Preview of the project available here!!!](https://akshayrrao.github.io/Nursery-management-system-master/)
